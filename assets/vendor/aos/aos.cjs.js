@@ -446,7 +446,6 @@ var options = {
   throttleDelay: 99,
   debounceDelay: 50
 };
-
 // Detect not supported browsers (<=IE9)
 // http://browserhacks.com/#hack-e71d8692f65334173fee715c222cb805
 var isBrowserNotSupported = function isBrowserNotSupported() {
